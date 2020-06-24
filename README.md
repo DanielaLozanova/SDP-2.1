@@ -5,13 +5,9 @@
 елементи от типа:
 
 struct ListNode
-
 {
-
 int data;
-
 ListNode *next;
-
 }
 
 Да се реализира функцията bool containsCycle(ListNode *start), на която се подава
