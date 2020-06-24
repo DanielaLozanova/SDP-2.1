@@ -5,8 +5,10 @@
 елементи от типа:
 
 struct ListNode
+
 {
 int data;
+
 ListNode *next;
 }
 
