@@ -4,9 +4,8 @@
 Нека имаме едносвързан списък от цели числа представен чрез поредица от свързани
 елементи от типа:
 
-struct ListNode
+struct ListNode{
 
-{
 int data;
 
 ListNode *next;
